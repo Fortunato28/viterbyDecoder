@@ -17,4 +17,6 @@ int main()
 
     free(decoded);
     return 0;
+
+// Why git dont see .gitignore?
 }
